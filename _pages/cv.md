@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, [Beijing University of Posts and Telecommunications(BUPT)](https://www.bupt.edu.cn/), 2024 (expected)
+* B.S. in Artificial Intelligence, [Beijing University of Posts and Telecommunications(BUPT)](https://www.bupt.edu.cn/), 2024 (expected)
 
 Research experience
 ======
