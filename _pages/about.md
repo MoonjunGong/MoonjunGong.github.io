@@ -15,6 +15,7 @@ My research interest lies in computer vision. More specifically, I am interested
 
 News
 ======
+
 - [2023/06]: [SSCBench](https://github.com/ai4ce/SSCBench) is released
 
 Selected Publications
