@@ -13,17 +13,17 @@ Education
 ======
 * B.S. in GitHub, [Beijing University of Posts and Telecommunications(BUPT)](https://www.bupt.edu.cn/), 2024 (expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Mar.2022-Mar.2023: Research Student 
+  * Beijing University of Posts and Telecommunications
+  * COST LAB
+  * Supervisor: Professor Jianqin Yin
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Mar.2023-Now: Research Student
+  * New York University
+  * [AI4CE LAB](https://ai4ce.github.io/)
+  * Supervisor: Professor Chen Feng
   
 Skills
 ======
