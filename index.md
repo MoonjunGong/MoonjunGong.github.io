@@ -23,4 +23,3 @@ In conclusion, my research interests are as follows:
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
