@@ -6,7 +6,6 @@ main:
     conference: arXiv, 2023.
     pdf: https://arxiv.org/pdf/2310.11239
     code: https://github.com/ai4ce/Occ4cast
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/occ4cast.png
     notes: Submitted to RA-L
 
@@ -16,7 +15,5 @@ main:
     conference: arXiv, 2020.
     pdf: https://arxiv.org/pdf/2306.09001
     code: https://github.com/ai4ce/SSCBench
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Submitted to ICLR
     image: ./assets/img/sscbench.png
+    notes: Submitted to ICLR
