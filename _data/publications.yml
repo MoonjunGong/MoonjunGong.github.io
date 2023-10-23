@@ -5,6 +5,7 @@ main:
     conference_short: arXiv
     conference: arXiv, 2023.
     pdf: https://arxiv.org/pdf/2310.11239
+    page: https://arxiv.org/abs/2310.11239
     code: https://github.com/ai4ce/Occ4cast
     image: ./assets/img/occ4cast.png
     notes: Submitted to RA-L
@@ -14,6 +15,7 @@ main:
     conference_short: arXiv
     conference: arXiv, 2020.
     pdf: https://arxiv.org/pdf/2306.09001
+    page: https://arxiv.org/abs/2306.09001
     code: https://github.com/ai4ce/SSCBench
     image: ./assets/img/sscbench.png
     notes: Submitted to ICLR
