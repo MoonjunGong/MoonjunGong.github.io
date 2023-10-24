@@ -1,7 +1,7 @@
 main:
 
   - title: "Occ4cast: LiDAR-based 4D Occupancy Completion and Forecasting"
-    authors: <strong>Moonjun Gong*</strong>, [Xinhao Liu*](https://scholar.google.com/citations?user=6pI4Xa4AAAAJ), Qi Fang, Haoyu Xie, [Yiming Li](https://scholar.google.com/citations?user=i_aajNoAAAAJ), [Hang Zhao](https://scholar.google.com/citations?user=DmahiOYAAAAJ&hl=en), [Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en) (*Equal contribution)
+    authors: <strong>Moonjun Gong*</strong>, [Xinhao Liu*](https://scholar.google.com/citations?user=6pI4Xa4AAAAJ), [Qi Fang](https://scholar.google.com/citations?hl=en&user=LIuiQlkAAAAJ), Haoyu Xie, [Yiming Li](https://scholar.google.com/citations?user=i_aajNoAAAAJ), [Hang Zhao](https://scholar.google.com/citations?user=DmahiOYAAAAJ&hl=en), [Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en) (*Equal contribution)
     conference_short: arXiv
     conference: arXiv, 2023.
     pdf: https://arxiv.org/pdf/2310.11239
