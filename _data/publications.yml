@@ -1,7 +1,7 @@
 main:
 
   - title: "Occ4cast: LiDAR-based 4D Occupancy Completion and Forecasting"
-    authors: <strong>Moonjun Gong*</strong>, [Xinhao Liu*](https://scholar.google.com/citations?user=6pI4Xa4AAAAJ), [Qi Fang](https://scholar.google.com/citations?hl=en&user=LIuiQlkAAAAJ), Haoyu Xie, [Yiming Li](https://scholar.google.com/citations?user=i_aajNoAAAAJ), [Hang Zhao](https://scholar.google.com/citations?user=DmahiOYAAAAJ&hl=en), [Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en) (*Equal contribution)
+    authors: <strong>Moonjun Gong*</strong>, Xinhao Liu*, Qi Fang, Haoyu Xie, Yiming Li, Hang Zhao, Chen Feng (*Equal contribution)
     conference_short: arXiv
     conference: arXiv, 2023.
     pdf: https://arxiv.org/pdf/2310.11239
@@ -11,7 +11,7 @@ main:
     notes: Submitted to RA-L
 
   - title: "SSCBench: Monocular 3D Semantic Scene Completion Benchmark in Street Views"
-    authors: <strong>Moonjun Gong*</strong>,[Yiming Li*](https://scholar.google.com/citations?user=i_aajNoAAAAJ), [Sihang Li*](https://scholar.google.com/citations?user=ewUEtREAAAAJ&hl=en), [Xinhao Liu*](https://scholar.google.com/citations?user=6pI4Xa4AAAAJ), Kenan Li, Nuo Chen, Zijun Wang, Zhiheng Li, Tao Jiang, [Fisher Yu](https://scholar.google.com/citations?user=-XCiamcAAAAJ&hl=en), [Yue Wang](https://scholar.google.com/citations?user=v-AEFIEAAAAJ&hl=en), [Hang Zhao](https://scholar.google.com/citations?user=DmahiOYAAAAJ&hl=en), [Zhiding Yu](https://scholar.google.com/citations?user=1VI_oYUAAAAJ&hl=en), [Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en) (*Equal contribution)
+    authors: <strong>Moonjun Gong*</strong>,Yiming Li, Sihang Li, Xinhao Liu*, Kenan Li, Nuo Chen, Zijun Wang, Zhiheng Li, Tao Jiang, Fisher Yu, Yue Wang, Hang Zhao, Zhiding Yu, Chen Feng (*Equal contribution)
     conference_short: arXiv
     conference: arXiv, 2023.
     pdf: https://arxiv.org/pdf/2306.09001
