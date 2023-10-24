@@ -14,6 +14,7 @@ In conclusion, my research interests are as follows:
 
 - **Robitics:** Perception and Planning
 - **Computer Vision:** 3D Scene Understanding, Collaborative Perception and Prediction
+- **Machine Learning:** Robust and Efficient Algorithms
 
 
 ## News
