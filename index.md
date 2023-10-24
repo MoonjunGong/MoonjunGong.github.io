@@ -8,7 +8,7 @@ I am a senior undergraduate student at [Beijing University of Posts and Telecomm
 
 ## Research Interests
 
-I am passionate about computer vision and its application to robotics, with a focus on enhancing robots' perception and planning abilities. Previously, I curated large-scale datasets to support the development of reliable algorithms. Moving forward, I aim to develop perception algorithms that can generalize effectively across diverse datasets with varying settings. This adaptability is crucial for the widespread adoption of autonomous systems. I am also intrigued by collaborative autonomous intelligence and planning algorithms that integrate multiple autonomous systems for seamless and efficient teamwork.
+I am passionate about computer vision and its application to robotics, with a focus on enhancing robots' perception and planning abilities. Previously, I curated large-scale datasets to support the development of reliable algorithms. Moving forward, I aim to develop perception algorithms that can generalize effectively across diverse datasets with varying settings. This adaptability is crucial for the widespread adoption of autonomous systems. I am also intrigued by collaborative autonomous intelligence, as it allows autonomous robots to share and validate perception results and extend their perception range, which has the potential to significantly enhance the robustness and accuracy of the entire system.
 
 In conclusion, my research interests are as follows: 
 
