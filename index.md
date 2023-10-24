@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a senior undergraduate student at [Beijing University of Posts and Telecommunications(BUPT)](https://www.bupt.edu.cn/). I have been a research student in [AI4CE LAB](https://ai4ce.github.io/) at [New York University(NYU)](https://www.nyu.edu/), working with [Yiming Li](https://roboticsyimingli.github.io/), advised by [Prof. Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=zh-CN&oi=ao) since Mar.2023. Before this, I was a research student in COST LAB at BUPT from Mar.2022 to Mar.2023, advised by Prof. Jianqin Yin.
+I am a senior undergraduate student at [Beijing University of Posts and Telecommunications(BUPT)](https://www.bupt.edu.cn/). I have been a research student in [AI4CE LAB](https://ai4ce.github.io/) at [New York University(NYU)](https://www.nyu.edu/), working with [Yiming Li](https://yimingli-page.github.io/), advised by [Prof. Chen Feng](https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=zh-CN&oi=ao) since Mar.2023. Before this, I was a research student in COST LAB at BUPT from Mar.2022 to Mar.2023, advised by Prof. Jianqin Yin.
 
 ## Research Interests
 
@@ -12,7 +12,7 @@ I am passionate about computer vision and its application to robotics, with a fo
 
 In conclusion, my research interests are as follows: 
 
-- **Robitics:** Perception and Planning
+- **Robotics:** Perception and Planning
 - **Computer Vision:** 3D Scene Understanding, Collaborative Perception and Prediction
 - **Machine Learning:** Robust and Efficient Algorithms
 
