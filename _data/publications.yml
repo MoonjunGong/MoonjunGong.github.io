@@ -8,7 +8,7 @@ main:
     page: https://arxiv.org/abs/2310.11239
     code: https://github.com/ai4ce/Occ4cast
     image: ./assets/img/occ4cast.png
-    notes: Submitted to RA-L
+    notes: 
 
   - title: "SSCBench: Monocular 3D Semantic Scene Completion Benchmark in Street Views"
     authors: <strong>Moonjun Gong*</strong>, Yiming Li*, Sihang Li*, Xinhao Liu*, Kenan Li, Nuo Chen, Zijun Wang, Zhiheng Li, Tao Jiang, Fisher Yu, Yue Wang, Hang Zhao, Zhiding Yu, Chen Feng (*Equal contribution)
@@ -18,4 +18,4 @@ main:
     page: https://arxiv.org/abs/2306.09001
     code: https://github.com/ai4ce/SSCBench
     image: ./assets/img/sscbench.png
-    notes: Submitted to ICLR
+    notes: 
