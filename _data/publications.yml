@@ -1,21 +1,30 @@
 main:
 
+  - title: "Multiagent Multitraversal Multimodal Self-Driving: Open MARS Dataset"
+    authors: Yiming Li, Zhiheng Li, Nuo Chen, <strong>Moonjun Gong</strong>, Zonglin Lyu, Zehong Wang, Peili Jiang, Chen Feng
+    conference_short: CVPR
+    conference: Computer Vision and Pattern Recognition, 2024.
+    pdf: https://arxiv.org/abs/2406.09383
+    page: https://ai4ce.github.io/MARS/
+    code: https://github.com/ai4ce/MARS
+    image: ./assets/img/occ4cast.png
+    notes: 
   - title: "Occ4cast: LiDAR-based 4D Occupancy Completion and Forecasting"
     authors: <strong>Moonjun Gong*</strong>, Xinhao Liu*, Qi Fang, Haoyu Xie, Yiming Li, Hang Zhao, Chen Feng (*Equal contribution)
-    conference_short: arXiv
-    conference: arXiv, 2023.
+    conference_short: IROS
+    conference: International Conference on Intelligent Robots and System, 2024.
     pdf: https://arxiv.org/pdf/2310.11239
-    page: https://arxiv.org/abs/2310.11239
+    page: https://ai4ce.github.io/Occ4cast/
     code: https://github.com/ai4ce/Occ4cast
     image: ./assets/img/occ4cast.png
     notes: 
 
   - title: "SSCBench: Monocular 3D Semantic Scene Completion Benchmark in Street Views"
     authors: <strong>Moonjun Gong*</strong>, Yiming Li*, Sihang Li*, Xinhao Liu*, Kenan Li, Nuo Chen, Zijun Wang, Zhiheng Li, Tao Jiang, Fisher Yu, Yue Wang, Hang Zhao, Zhiding Yu, Chen Feng (*Equal contribution)
-    conference_short: arXiv
-    conference: arXiv, 2023.
+    conference_short: IROS
+    conference: International Conference on Intelligent Robots and System, 2024.
     pdf: https://arxiv.org/pdf/2306.09001
-    page: https://arxiv.org/abs/2306.09001
+    page: https://github.com/ai4ce/SSCBench
     code: https://github.com/ai4ce/SSCBench
     image: ./assets/img/sscbench.png
     notes: 
