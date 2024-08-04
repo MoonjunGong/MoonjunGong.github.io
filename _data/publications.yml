@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/abs/2406.09383
     page: https://ai4ce.github.io/MARS/
     code: https://github.com/ai4ce/MARS
-    image: ./assets/img/occ4cast.png
+    image: ./assets/img/mars.png
     notes: 
   - title: "Occ4cast: LiDAR-based 4D Occupancy Completion and Forecasting"
     authors: <strong>Moonjun Gong*</strong>, Xinhao Liu*, Qi Fang, Haoyu Xie, Yiming Li, Hang Zhao, Chen Feng (*Equal contribution)
