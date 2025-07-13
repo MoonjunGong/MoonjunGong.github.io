@@ -33,10 +33,10 @@ In conclusion, my research interests are as follows:
 
 
 ## News
-- **[Jun. 2025]** GS-Occ3D: Scaling Vision-only Occupancy Reconstruction for Autonomous Driving with Gaussian Splatting was accepted in ICCV 2025.
-- **[Jun. 2024]** [Multiagent Multitraversal Multimodal Self-Driving: Open MARS Dataset](https://ai4ce.github.io/MARS/) dataset is released
-- **[Oct. 2023]** [Occ4cast: LiDAR-based 4D Occupancy Completion and Forecasting](https://github.com/ai4ce/Occ4cast) dataset is released
-- **[Jun. 2023]** [SSCBench: A Large-Scale 3D Semantic Scene Completion Benchmark for Autonomous Driving](https://github.com/ai4ce/SSCBench) dataset is released
+- **[Jun. 2025]** GS-Occ3D: Scaling Vision-only Occupancy Reconstruction for Autonomous Driving with Gaussian Splatting, ICCV 2025.
+- **[Jun. 2024]** [Multiagent Multitraversal Multimodal Self-Driving: Open MARS Dataset](https://ai4ce.github.io/MARS/), CVPR 2024
+- **[Oct. 2023]** [Occ4cast: LiDAR-based 4D Occupancy Completion and Forecasting](https://github.com/ai4ce/Occ4cast), IROS 2024
+- **[Jun. 2023]** [SSCBench: A Large-Scale 3D Semantic Scene Completion Benchmark for Autonomous Driving](https://github.com/ai4ce/SSCBench), IROS 2024
 
 {% include_relative _includes/publications.md %}
 
